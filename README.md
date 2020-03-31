@@ -3,13 +3,13 @@
 
 This repository contains the data and preprocessing used for visualizing the Coronavirus pandemic using [Flourish](https://flourish.studio/).  
 
-A collection of visualizations is available as a Flourish Story [*here*](https://public.flourish.studio/story/236518/)  
+A collection of visualizations is available as a Flourish Story [**here**](https://public.flourish.studio/story/236518/)  
 
 These visualizations were created for a data visualization course on the Data Science (BSc) programme at the IT University of Copenhagen. 
 
 ## Data
 
-The source data is stored in a Google Sheet(https://docs.google.com/spreadsheets/d/1gsH9xF4HcESKs35QPNvKPDSJtYdSuzEo2JNXkr5ccY8/edit?usp=sharing)
+The source data is stored in a [Google Sheet](https://docs.google.com/spreadsheets/d/1gsH9xF4HcESKs35QPNvKPDSJtYdSuzEo2JNXkr5ccY8/edit?usp=sharing)
  updating daily from a GitHub repository maintained by the by the Johns Hopkins University Center for Systems Science and Engineering.  
 
 Simple data processing such as pivot tables aggregating data on a country-level is done in an Excel workbook available in `CoronavirusTrendsMaster.xlsx`.  
@@ -32,7 +32,7 @@ Rosling chart showing infection growth relative to total number of confirmed inf
 ![infections rosling chart](https://i.gyazo.com/08fadccbca9f060d9c2d380b7ff418de.gif)
 
 ## References
-[Johns Hopkins CSSE](https://github.com/CSSEGISandData/COVID-19)
-[Flourish Studio](https://flourish.studio/)
+Johns Hopkins CSSE: https://github.com/CSSEGISandData/COVID-19]  
+Flourish Studio: https://flourish.studio/
 
 
