@@ -81,6 +81,10 @@ def create_all_stats_table(filename, date_folder):
     all_stats_df = merge_dict(all_stats_df, dfs['deaths_pivot'], 'deaths')
     all_stats_df = merge_dict(all_stats_df, dfs['deaths_new_pivot'], 'deaths_new')
     
+    # total recoveries
+    all_stats_df = merge_dict(all_stats_df, dfs['recovered_pivot'], 'recovered')
+    # all_stats_df = merge_dict(all_stats_df, dfs['recovered_new_pivot'], 'recovered_new')
+    
     # compute mortality rate as total number of deaths per infection
     all_stats_df['deaths_per_infection'] = all_stats_df['deaths'] / all_stats_df['infections']
     
@@ -195,7 +199,59 @@ def count_from_first_n_report(all_stats_df, date_folder,
                                     .format(date_folder, n, first_label), index=False)
             
     return
+     
+import math   
+
+def prepare_data_for_survery_charts(all_stats_df, date_min, bucket_size=500):
+    """
+    Prepares Corona data for survey data type
+
+    Parameters
+    ----------
+    all_stats_df : DataFrame
+        output of create_all_stats_table()
+    date_min : string
+        date format string YYYY-MM-DD.
+
+    Returns
+    -------
+    DataFrame
+    """
+    
+    # get all data from date_min and newer
+    all_stats_filter = all_stats_df[all_stats_df.datetime >= date_min]
+    
+    output_records = []
+    
+    for record in all_stats_filter.to_dict('records'):
+        # split into infection, death and recoveries
+        for label in ['infections', 'deaths', 'recovered']:
+            
+            for i in range( math.floor(record[label] / bucket_size)):
+                
+                output_records.append({
+                        "country": record['country'],
+                        "continent": record['continent'],
+                        "datetime": record['datetime'],
+                        "count": bucket_size,
+                        "type": label
+                    })
+            
+            if record[label] > 0:
+                output_records.append({
+                        "country": record['country'],
+                        "continent": record['continent'],
+                        "datetime": record['datetime'],
+                        "count": record[label] % bucket_size,
+                        "type": label
+                    })
         
+    df = pd.DataFrame.from_records(output_records)
+    return df
+        
+    
+    
+
 
 
 if __name__ == '__main__':
@@ -214,13 +270,12 @@ if __name__ == '__main__':
     # get day-by-day records from first 5 deaths
     count_from_first_n_report(all_stats_df, date_folder, first_label='deaths', n=5)
 
+    survey = prepare_data_for_survery_charts(all_stats_df, date_min="2020-03-30", bucket_size=500)
     
-    # https://ourworldindata.org/world-region-map-definitions
-    continents = pd.read_csv('country-continent.csv')
     
-    df = all_stats_df.merge(continents[['country', 'continent']], on="country", how='left')
+    
 
-
+    
 
 
 
