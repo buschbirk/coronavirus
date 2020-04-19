@@ -9,6 +9,7 @@ Created on Sun Mar 29 15:10:09 2020
 import pandas as pd
 from datetime import datetime as dt
 import os
+from datetime import timedelta
 
 
 def merge_dict(main_df, merge_df, colname):
@@ -42,6 +43,11 @@ def merge_dict(main_df, merge_df, colname):
     return main_df
 
 
+def join_continent(df):
+    continents = pd.read_csv('country-continent.csv')
+    df = df.merge(continents[['country', 'continent']], on="country", how='left')
+    return df
+
     
 def create_all_stats_table(filename, date_folder):
     """
@@ -61,6 +67,13 @@ def create_all_stats_table(filename, date_folder):
     
     # read all sheets into pandas dataframes
     dfs = pd.read_excel(filename, sheet_name=None, dtype="str")
+    
+    # save all pivot tables to file
+    for key, frame in dfs.items():
+        if 'pivot' in key.lower():
+            frame['country'] = frame['Row Labels']
+            frame = join_continent(frame)
+            frame.to_csv("{}/{}.csv".format(date_folder, key), index=False)
     
     # create a row for each country-date pair 
     keys = []
@@ -95,8 +108,7 @@ def create_all_stats_table(filename, date_folder):
     all_stats_df['datetime'] = all_stats_df.apply(lambda x: dt.strptime(x.date, ' %m/%d/%Y'), axis=1) 
     
     
-    continents = pd.read_csv('country-continent.csv')
-    all_stats_df = all_stats_df.merge(continents[['country', 'continent']], on="country", how='left')
+    all_stats_df = join_continent(all_stats_df)
     
     # export results to csv
     all_stats_df.to_csv('{}/all_stats_corona_{}.csv'
@@ -202,7 +214,7 @@ def count_from_first_n_report(all_stats_df, date_folder,
      
 import math   
 
-def prepare_data_for_survery_charts(all_stats_df, date_min, bucket_size=500):
+def prepare_data_for_survery_charts(all_stats_df, date_min, bucket_size=500, bucket_size_min=0):
     """
     Prepares Corona data for survey data type
 
@@ -238,13 +250,16 @@ def prepare_data_for_survery_charts(all_stats_df, date_min, bucket_size=500):
                     })
             
             if record[label] > 0:
-                output_records.append({
-                        "country": record['country'],
-                        "continent": record['continent'],
-                        "datetime": record['datetime'],
-                        "count": record[label] % bucket_size,
-                        "type": label
-                    })
+                
+                if record[label] >= bucket_size_min:
+                    
+                    output_records.append({
+                            "country": record['country'],
+                            "continent": record['continent'],
+                            "datetime": record['datetime'],
+                            "count": record[label] % bucket_size,
+                            "type": label
+                        })
         
     df = pd.DataFrame.from_records(output_records)
     return df
@@ -269,9 +284,11 @@ if __name__ == '__main__':
     
     # get day-by-day records from first 5 deaths
     count_from_first_n_report(all_stats_df, date_folder, first_label='deaths', n=5)
-
-    survey = prepare_data_for_survery_charts(all_stats_df, date_min="2020-03-30", bucket_size=500)
     
+    prev_date = (dt.today() - timedelta(days=1)).strftime('%Y-%m-%d') 
+    
+    survey = prepare_data_for_survery_charts(all_stats_df, date_min=prev_date, bucket_size=500, bucket_size_min=250)
+    survey.to_csv('{}/{}_survery.csv'.format(date_folder, prev_date), index=False)
     
     
 

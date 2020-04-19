@@ -1,0 +1,3439 @@
+country,continent,datetime,count,type
+Armenia,Asia,2020-04-06,500.0,infections
+Armenia,Asia,2020-04-06,333.0,infections
+Albania,Europe,2020-04-06,377.0,infections
+Algeria,Africa,2020-04-06,500.0,infections
+Algeria,Africa,2020-04-06,500.0,infections
+Algeria,Africa,2020-04-06,423.0,infections
+Andorra,Europe,2020-04-06,500.0,infections
+Andorra,Europe,2020-04-06,25.0,infections
+Afghanistan,Asia,2020-04-06,367.0,infections
+Argentina,South America,2020-04-06,500.0,infections
+Argentina,South America,2020-04-06,500.0,infections
+Argentina,South America,2020-04-06,500.0,infections
+Argentina,South America,2020-04-06,54.0,infections
+Argentina,South America,2020-04-06,325.0,recovered
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,500.0,infections
+Australia,Oceania,2020-04-06,297.0,infections
+Australia,Oceania,2020-04-06,500.0,recovered
+Australia,Oceania,2020-04-06,500.0,recovered
+Australia,Oceania,2020-04-06,80.0,recovered
+Azerbaijan,Asia,2020-04-06,500.0,infections
+Azerbaijan,Asia,2020-04-06,141.0,infections
+Bahrain,Asia,2020-04-06,500.0,infections
+Bahrain,Asia,2020-04-06,256.0,infections
+Bahrain,Asia,2020-04-06,458.0,recovered
+Belarus,Europe,2020-04-06,500.0,infections
+Belarus,Europe,2020-04-06,200.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,500.0,infections
+Belgium,Europe,2020-04-06,314.0,infections
+Belgium,Europe,2020-04-06,500.0,deaths
+Belgium,Europe,2020-04-06,500.0,deaths
+Belgium,Europe,2020-04-06,500.0,deaths
+Belgium,Europe,2020-04-06,132.0,deaths
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,500.0,recovered
+Belgium,Europe,2020-04-06,486.0,recovered
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,500.0,infections
+Austria,Europe,2020-04-06,297.0,infections
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,500.0,recovered
+Austria,Europe,2020-04-06,463.0,recovered
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,500.0,infections
+Brazil,South America,2020-04-06,161.0,infections
+Brazil,South America,2020-04-06,500.0,deaths
+Brazil,South America,2020-04-06,64.0,deaths
+Cuba,North America,2020-04-06,350.0,infections
+Bulgaria,Europe,2020-04-06,500.0,infections
+Bulgaria,Europe,2020-04-06,49.0,infections
+Burkina Faso,Africa,2020-04-06,364.0,infections
+Cameroon,Africa,2020-04-06,500.0,infections
+Cameroon,Africa,2020-04-06,158.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,500.0,infections
+Canada,North America,2020-04-06,63.0,infections
+Canada,North America,2020-04-06,339.0,deaths
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,500.0,recovered
+Canada,North America,2020-04-06,256.0,recovered
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,500.0,infections
+Chile,South America,2020-04-06,315.0,infections
+Chile,South America,2020-04-06,500.0,recovered
+Chile,South America,2020-04-06,228.0,recovered
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,500.0,infections
+China,Asia,2020-04-06,165.0,infections
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,500.0,deaths
+China,Asia,2020-04-06,335.0,deaths
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,500.0,recovered
+China,Asia,2020-04-06,310.0,recovered
+Colombia,South America,2020-04-06,500.0,infections
+Colombia,South America,2020-04-06,500.0,infections
+Colombia,South America,2020-04-06,500.0,infections
+Colombia,South America,2020-04-06,79.0,infections
+Costa Rica,North America,2020-04-06,467.0,infections
+Cote d'Ivoire,Africa,2020-04-06,323.0,infections
+Croatia,Europe,2020-04-06,500.0,infections
+Croatia,Europe,2020-04-06,500.0,infections
+Croatia,Europe,2020-04-06,222.0,infections
+Bosnia and Herzegovina,Europe,2020-04-06,500.0,infections
+Bosnia and Herzegovina,Europe,2020-04-06,174.0,infections
+Cyprus,Europe,2020-04-06,465.0,infections
+Greece,Europe,2020-04-06,500.0,infections
+Greece,Europe,2020-04-06,500.0,infections
+Greece,Europe,2020-04-06,500.0,infections
+Greece,Europe,2020-04-06,255.0,infections
+Greece,Europe,2020-04-06,269.0,recovered
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,500.0,infections
+Denmark,Europe,2020-04-06,375.0,infections
+Denmark,Europe,2020-04-06,500.0,recovered
+Denmark,Europe,2020-04-06,500.0,recovered
+Denmark,Europe,2020-04-06,489.0,recovered
+Dominican Republic,North America,2020-04-06,500.0,infections
+Dominican Republic,North America,2020-04-06,500.0,infections
+Dominican Republic,North America,2020-04-06,500.0,infections
+Dominican Republic,North America,2020-04-06,328.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,500.0,infections
+Ecuador,South America,2020-04-06,247.0,infections
+Egypt,Africa,2020-04-06,500.0,infections
+Egypt,Africa,2020-04-06,500.0,infections
+Egypt,Africa,2020-04-06,322.0,infections
+Egypt,Africa,2020-04-06,259.0,recovered
+Estonia,Europe,2020-04-06,500.0,infections
+Estonia,Europe,2020-04-06,500.0,infections
+Estonia,Europe,2020-04-06,108.0,infections
+Kuwait,Asia,2020-04-06,500.0,infections
+Kuwait,Asia,2020-04-06,165.0,infections
+Finland,Europe,2020-04-06,500.0,infections
+Finland,Europe,2020-04-06,500.0,infections
+Finland,Europe,2020-04-06,500.0,infections
+Finland,Europe,2020-04-06,500.0,infections
+Finland,Europe,2020-04-06,176.0,infections
+Finland,Europe,2020-04-06,300.0,recovered
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,500.0,infections
+France,Europe,2020-04-06,463.0,infections
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,500.0,deaths
+France,Europe,2020-04-06,426.0,deaths
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,500.0,recovered
+France,Europe,2020-04-06,428.0,recovered
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,500.0,infections
+Germany,Europe,2020-04-06,374.0,infections
+Germany,Europe,2020-04-06,500.0,deaths
+Germany,Europe,2020-04-06,500.0,deaths
+Germany,Europe,2020-04-06,500.0,deaths
+Germany,Europe,2020-04-06,310.0,deaths
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,500.0,recovered
+Germany,Europe,2020-04-06,200.0,recovered
+Honduras,North America,2020-04-06,298.0,infections
+Hungary,Europe,2020-04-06,500.0,infections
+Hungary,Europe,2020-04-06,244.0,infections
+Iceland,Europe,2020-04-06,500.0,infections
+Iceland,Europe,2020-04-06,500.0,infections
+Iceland,Europe,2020-04-06,500.0,infections
+Iceland,Europe,2020-04-06,62.0,infections
+Iceland,Europe,2020-04-06,460.0,recovered
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,500.0,infections
+India,Asia,2020-04-06,278.0,infections
+India,Asia,2020-04-06,375.0,recovered
+Indonesia,Asia,2020-04-06,500.0,infections
+Indonesia,Asia,2020-04-06,500.0,infections
+Indonesia,Asia,2020-04-06,500.0,infections
+Indonesia,Asia,2020-04-06,500.0,infections
+Indonesia,Asia,2020-04-06,491.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,500.0,infections
+Iran,Asia,2020-04-06,0.0,infections
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,500.0,deaths
+Iran,Asia,2020-04-06,239.0,deaths
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,500.0,recovered
+Iran,Asia,2020-04-06,236.0,recovered
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,500.0,infections
+Czechia,Europe,2020-04-06,322.0,infections
+Iraq,Asia,2020-04-06,500.0,infections
+Iraq,Asia,2020-04-06,500.0,infections
+Iraq,Asia,2020-04-06,31.0,infections
+Iraq,Asia,2020-04-06,344.0,recovered
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,500.0,infections
+Israel,Asia,2020-04-06,404.0,infections
+Israel,Asia,2020-04-06,500.0,recovered
+Israel,Asia,2020-04-06,85.0,recovered
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,500.0,infections
+Italy,Europe,2020-04-06,47.0,infections
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,500.0,deaths
+Italy,Europe,2020-04-06,23.0,deaths
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,500.0,recovered
+Italy,Europe,2020-04-06,337.0,recovered
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,500.0,infections
+Japan,Asia,2020-04-06,154.0,infections
+Japan,Asia,2020-04-06,500.0,recovered
+Japan,Asia,2020-04-06,75.0,recovered
+Jordan,Asia,2020-04-06,349.0,infections
+Kazakhstan,Asia,2020-04-06,500.0,infections
+Kazakhstan,Asia,2020-04-06,162.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,500.0,infections
+"Korea, South",Asia,2020-04-06,284.0,infections
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,500.0,recovered
+"Korea, South",Asia,2020-04-06,98.0,recovered
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,500.0,infections
+Ireland,Europe,2020-04-06,364.0,infections
+Diamond Princess,Other,2020-04-06,500.0,infections
+Diamond Princess,Other,2020-04-06,212.0,infections
+Diamond Princess,Other,2020-04-06,500.0,recovered
+Diamond Princess,Other,2020-04-06,119.0,recovered
+South Africa,Africa,2020-04-06,500.0,infections
+South Africa,Africa,2020-04-06,500.0,infections
+South Africa,Africa,2020-04-06,500.0,infections
+South Africa,Africa,2020-04-06,186.0,infections
+Lebanon,Asia,2020-04-06,500.0,infections
+Lebanon,Asia,2020-04-06,41.0,infections
+Lithuania,Europe,2020-04-06,500.0,infections
+Lithuania,Europe,2020-04-06,343.0,infections
+Luxembourg,Europe,2020-04-06,500.0,infections
+Luxembourg,Europe,2020-04-06,500.0,infections
+Luxembourg,Europe,2020-04-06,500.0,infections
+Luxembourg,Europe,2020-04-06,500.0,infections
+Luxembourg,Europe,2020-04-06,500.0,infections
+Luxembourg,Europe,2020-04-06,343.0,infections
+Luxembourg,Europe,2020-04-06,500.0,recovered
+Luxembourg,Europe,2020-04-06,0.0,recovered
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,500.0,infections
+Malaysia,Asia,2020-04-06,293.0,infections
+Malaysia,Asia,2020-04-06,500.0,recovered
+Malaysia,Asia,2020-04-06,500.0,recovered
+Malaysia,Asia,2020-04-06,241.0,recovered
+Mexico,North America,2020-04-06,500.0,infections
+Mexico,North America,2020-04-06,500.0,infections
+Mexico,North America,2020-04-06,500.0,infections
+Mexico,North America,2020-04-06,500.0,infections
+Mexico,North America,2020-04-06,143.0,infections
+Mexico,North America,2020-04-06,500.0,recovered
+Mexico,North America,2020-04-06,133.0,recovered
+Moldova,Europe,2020-04-06,500.0,infections
+Moldova,Europe,2020-04-06,465.0,infections
+Latvia,Europe,2020-04-06,500.0,infections
+Latvia,Europe,2020-04-06,42.0,infections
+Morocco,Africa,2020-04-06,500.0,infections
+Morocco,Africa,2020-04-06,500.0,infections
+Morocco,Africa,2020-04-06,120.0,infections
+Oman,Asia,2020-04-06,331.0,infections
+New Zealand,Oceania,2020-04-06,500.0,infections
+New Zealand,Oceania,2020-04-06,500.0,infections
+New Zealand,Oceania,2020-04-06,106.0,infections
+Niger,Africa,2020-04-06,253.0,infections
+North Macedonia,Europe,2020-04-06,500.0,infections
+North Macedonia,Europe,2020-04-06,70.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,500.0,infections
+Netherlands,Europe,2020-04-06,426.0,infections
+Netherlands,Europe,2020-04-06,500.0,deaths
+Netherlands,Europe,2020-04-06,500.0,deaths
+Netherlands,Europe,2020-04-06,500.0,deaths
+Netherlands,Europe,2020-04-06,374.0,deaths
+Netherlands,Europe,2020-04-06,258.0,recovered
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,500.0,infections
+Norway,Europe,2020-04-06,365.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,500.0,infections
+Pakistan,Asia,2020-04-06,266.0,infections
+Pakistan,Asia,2020-04-06,259.0,recovered
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,500.0,infections
+Philippines,Asia,2020-04-06,160.0,infections
+Peru,South America,2020-04-06,500.0,infections
+Peru,South America,2020-04-06,500.0,infections
+Peru,South America,2020-04-06,500.0,infections
+Peru,South America,2020-04-06,500.0,infections
+Peru,South America,2020-04-06,500.0,infections
+Peru,South America,2020-04-06,61.0,infections
+Peru,South America,2020-04-06,500.0,recovered
+Peru,South America,2020-04-06,497.0,recovered
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,500.0,infections
+Poland,Europe,2020-04-06,413.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,500.0,infections
+Portugal,Europe,2020-04-06,230.0,infections
+Portugal,Europe,2020-04-06,311.0,deaths
+Qatar,Asia,2020-04-06,500.0,infections
+Qatar,Asia,2020-04-06,500.0,infections
+Qatar,Asia,2020-04-06,500.0,infections
+Qatar,Asia,2020-04-06,332.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,500.0,infections
+Romania,Europe,2020-04-06,57.0,infections
+Romania,Europe,2020-04-06,406.0,recovered
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,500.0,infections
+Russia,Europe,2020-04-06,343.0,infections
+Russia,Europe,2020-04-06,406.0,recovered
+Panama,North America,2020-04-06,500.0,infections
+Panama,North America,2020-04-06,500.0,infections
+Panama,North America,2020-04-06,500.0,infections
+Panama,North America,2020-04-06,488.0,infections
+San Marino,Europe,2020-04-06,266.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,infections
+Saudi Arabia,Asia,2020-04-06,105.0,infections
+Saudi Arabia,Asia,2020-04-06,500.0,recovered
+Saudi Arabia,Asia,2020-04-06,51.0,recovered
+Serbia,Europe,2020-04-06,500.0,infections
+Serbia,Europe,2020-04-06,500.0,infections
+Serbia,Europe,2020-04-06,500.0,infections
+Serbia,Europe,2020-04-06,500.0,infections
+Serbia,Europe,2020-04-06,200.0,infections
+Singapore,Asia,2020-04-06,500.0,infections
+Singapore,Asia,2020-04-06,500.0,infections
+Singapore,Asia,2020-04-06,375.0,infections
+Singapore,Asia,2020-04-06,344.0,recovered
+Slovakia,Europe,2020-04-06,500.0,infections
+Slovakia,Europe,2020-04-06,34.0,infections
+Slovenia,Europe,2020-04-06,500.0,infections
+Slovenia,Europe,2020-04-06,500.0,infections
+Slovenia,Europe,2020-04-06,21.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,500.0,infections
+Spain,Europe,2020-04-06,175.0,infections
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,500.0,deaths
+Spain,Europe,2020-04-06,341.0,deaths
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,500.0,recovered
+Spain,Europe,2020-04-06,437.0,recovered
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,500.0,infections
+Sweden,Europe,2020-04-06,206.0,infections
+Sweden,Europe,2020-04-06,477.0,deaths
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,500.0,infections
+Switzerland,Europe,2020-04-06,157.0,infections
+Switzerland,Europe,2020-04-06,500.0,deaths
+Switzerland,Europe,2020-04-06,265.0,deaths
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,500.0,recovered
+Switzerland,Europe,2020-04-06,56.0,recovered
+Taiwan*,Asia,2020-04-06,373.0,infections
+Thailand,Asia,2020-04-06,500.0,infections
+Thailand,Asia,2020-04-06,500.0,infections
+Thailand,Asia,2020-04-06,500.0,infections
+Thailand,Asia,2020-04-06,500.0,infections
+Thailand,Asia,2020-04-06,220.0,infections
+Thailand,Asia,2020-04-06,500.0,recovered
+Thailand,Asia,2020-04-06,293.0,recovered
+Tunisia,Africa,2020-04-06,500.0,infections
+Tunisia,Africa,2020-04-06,96.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,500.0,infections
+Turkey,Asia,2020-04-06,217.0,infections
+Turkey,Asia,2020-04-06,500.0,deaths
+Turkey,Asia,2020-04-06,149.0,deaths
+Turkey,Asia,2020-04-06,500.0,recovered
+Turkey,Asia,2020-04-06,500.0,recovered
+Turkey,Asia,2020-04-06,326.0,recovered
+Ukraine,Europe,2020-04-06,500.0,infections
+Ukraine,Europe,2020-04-06,500.0,infections
+Ukraine,Europe,2020-04-06,319.0,infections
+United Arab Emirates,Asia,2020-04-06,500.0,infections
+United Arab Emirates,Asia,2020-04-06,500.0,infections
+United Arab Emirates,Asia,2020-04-06,500.0,infections
+United Arab Emirates,Asia,2020-04-06,500.0,infections
+United Arab Emirates,Asia,2020-04-06,76.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,500.0,infections
+United Kingdom,Europe,2020-04-06,279.0,infections
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,500.0,deaths
+United Kingdom,Europe,2020-04-06,385.0,deaths
+United Kingdom,Europe,2020-04-06,287.0,recovered
+Uruguay,South America,2020-04-06,406.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,500.0,infections
+US,North America,2020-04-06,114.0,infections
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,500.0,deaths
+US,North America,2020-04-06,283.0,deaths
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,500.0,recovered
+US,North America,2020-04-06,81.0,recovered
+Uzbekistan,Asia,2020-04-06,457.0,infections
+West Bank and Gaza,Asia,2020-04-06,254.0,infections
